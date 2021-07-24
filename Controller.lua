@@ -10,10 +10,10 @@ function init()
 	for i = 0, farmWidth, 1 do
 		local farmY = {};
 		for t = 0, farmHeight, 1 do --In Each FarmX Slot, Put FarmY Slots.
-			farmY[t] = nil;
+			farmY[t] = t;
+			print(farmX[i][farmY[t]]);
 		end
 		farmX[i] = farmY;
 	end
 end
 
-print("i will fucking die");
