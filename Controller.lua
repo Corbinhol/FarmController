@@ -18,4 +18,4 @@ function init()
 		farmX[i] = farmY;
 	end
 end
-print("Version .1");
+print("Version 1");
