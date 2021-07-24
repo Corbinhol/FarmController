@@ -15,3 +15,5 @@ function init()
 		farmX[i] = farmY;
 	end
 end
+
+print("WORKING");
