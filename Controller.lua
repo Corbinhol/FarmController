@@ -11,7 +11,6 @@ function init()
 		local farmY = {};
 		for t = 0, farmHeight, 1 do --In Each FarmX Slot, Put FarmY Slots.
 			farmY[t] = t;
-			print(farmX[i][farmY[t]]);
 		end
 		farmX[i] = farmY;
 	end
