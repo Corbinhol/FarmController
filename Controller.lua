@@ -16,4 +16,4 @@ function init()
 	end
 end
 
-print("i swear to god");
+print("i will fucking die");
