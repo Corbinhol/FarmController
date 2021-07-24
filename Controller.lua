@@ -16,4 +16,4 @@ function init()
 	end
 end
 
-print("I doubt this will");
+print("if this doesnt fucking work");
