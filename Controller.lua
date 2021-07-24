@@ -16,4 +16,4 @@ function init()
 	end
 end
 
-print("I doubt");
+print("I doubt this");
