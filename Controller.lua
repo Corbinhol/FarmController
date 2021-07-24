@@ -17,3 +17,4 @@ function init()
 	end
 end
 
+init();
