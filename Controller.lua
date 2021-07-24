@@ -16,4 +16,4 @@ function init()
 	end
 end
 
-print("Goodbye");
+print("Is it working???");
