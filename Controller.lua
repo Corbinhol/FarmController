@@ -16,4 +16,4 @@ function init()
 	end
 end
 
-print("Is it working???");
+print("I dont think it is");
