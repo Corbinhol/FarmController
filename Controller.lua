@@ -1,5 +1,8 @@
 local component = require("component");
- 
+
+print("Version .1");
+
+
 farmWidth = 4;
 farmHeight = 5;
 
